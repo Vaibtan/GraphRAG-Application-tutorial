@@ -1,1 +1,1 @@
-# GraphRAG-Application-tutorial
+# Graph RAG
